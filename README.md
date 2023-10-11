@@ -1,7 +1,10 @@
 # Youtube Clone
+
 ## Here is the expected output
 ![](https://github.com/Kalvium-Program/youtube-clone-boilerplate/blob/main/assets/Youtube%20Home%20Page.png?raw=true)
 
+## My Output
+ https://akshatm33.github.io/Youtube-Clone-Boilerplate/
 
 Fork this repo and get started with the cloning project.
 
